@@ -1,0 +1,11 @@
+{
+
+	"menu_l_global_value_psa_black" : "This is a custom weapon!",
+	
+	"bm_w_psa_black" : "PSA AR-15",
+	
+	"bm_wp_wpn_fps_ass_psa_black_lr_blank" : "Blank Receiver",
+	
+	"bm_wp_end" : "End"
+	
+}
