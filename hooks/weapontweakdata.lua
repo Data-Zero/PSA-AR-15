@@ -23,14 +23,43 @@ if ( self.psa_black ) then
         rotation = Rotation( 0, 0, 0 ) 
 	})
 	
+	self:SetupAttachmentPoint("psa_black", {
+		name = "a_bolt", 
+        base_a_obj = "a_bolt", 
+        position = Vector3( -0.65, -0.25, -0.15 ),
+        rotation = Rotation( 0, 0, 0 ) 
+	})
+	
 	--For Dummy Moving Parts
 	
 	self:SetupAttachmentPoint("psa_black", {
 		name = "a_m_dummy", 
         base_a_obj = "a_m", 
 		part_attach_data = {
-            {"wpn_fps_ass_psa_black_m_dummy"}, -- Attachments to attach to. ( Supports multiple if they share object names. )
-            "g_standard_mag" -- The object name on the attachment to attach to. ( If this object is animated 90% of the time it should move with it. )
+            {"wpn_fps_ass_psa_black_m_dummy"},
+            "g_standard_mag"
+        },
+        position = Vector3( 0, 0, 0 ),
+        rotation = Rotation( 0, 0, 0 ) 
+	})
+	
+	self:SetupAttachmentPoint("psa_black", {
+		name = "a_bolt_dummy", 
+        base_a_obj = "a_bolt", 
+		part_attach_data = {
+            {"wpn_fps_ass_psa_black_bo_dummy"},
+            "g_bolt"
+        },
+        position = Vector3( 0, 0, 0 ),
+        rotation = Rotation( 0, 0, 0 ) 
+	})
+	
+	self:SetupAttachmentPoint("psa_black", {
+		name = "a_dh_dummy", 
+        base_a_obj = "a_dh", 
+		part_attach_data = {
+            {"wpn_fps_ass_psa_black_bo_dummy"},
+            "g_draghandle"
         },
         position = Vector3( 0, 0, 0 ),
         rotation = Rotation( 0, 0, 0 ) 

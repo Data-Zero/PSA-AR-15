@@ -4,6 +4,12 @@
 	
 	<unit_npc	 path="units/mods/weapons/wpn_fps_ass_psa_black/wpn_fps_ass_psa_black"/>
 	
+	<!-- DUMMY PTS -->
+	
+	<unit_mat	 path="units/mods/weapons/wpn_fps_ass_psa_black_shared_pts/wpn_fps_ass_psa_black_m_dummy"/>
+	<unit_mat	 path="units/mods/weapons/wpn_fps_ass_psa_black_shared_pts/wpn_fps_ass_psa_black_bo_dummy"/>
+	<unit_mat	 path="units/mods/weapons/wpn_fps_ass_psa_black_shared_pts/wpn_fps_ass_psa_black_ch_dummy"/>
+	
 	<!-- AR-15 PARTS -->
 	
 	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_psa_black_handguard_pts/handguard_m4a1"/>
@@ -46,9 +52,5 @@
 	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_psa_black_mag_pts/mag_alum_30"/>
 	
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_psa_black_mag_pts/wpn_fps_ass_psa_black_m_alum_30"/>
-	
-	<!-- DUMMY PTS -->
-	
-	<unit_mat	 path="units/mods/weapons/wpn_fps_ass_psa_black_shared_pts/wpn_fps_ass_psa_black_m_dummy"/>
 
 </AddFiles>

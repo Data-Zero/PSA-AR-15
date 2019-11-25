@@ -1,0 +1,11 @@
+<dynamic_object>
+    <diesel orientation_object="rp_wpn_fps_m4_uupg_draghandle" materials="units/mods/weapons/wpn_fps_ass_psa_black_shared_pts/wpn_fps_ass_psa_black_ch_dummy" />
+   <animations>
+    <animation_group name="reload">
+      <object name="a_anim_draghandle" enabled="true" />
+    </animation_group>
+  </animations>
+  <graphics>
+        <object  name="g_draghandle" enabled="false" />
+  </graphics>
+</dynamic_object>

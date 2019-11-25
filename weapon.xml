@@ -31,6 +31,8 @@
 			<default_blueprint>
 			
 				<value_node value="wpn_fps_ass_psa_black_m_dummy"/>
+				<value_node value="wpn_fps_ass_psa_black_bo_dummy"/>
+				<value_node value="wpn_fps_ass_psa_black_ch_dummy"/>
 				
 				<value_node value="wpn_fps_ass_psa_black_ba_std"/>
 				<value_node value="wpn_fps_ass_psa_black_lr_std"/>
@@ -58,6 +60,10 @@
 
 			<uses_parts>
 			
+				<value_node value="wpn_fps_ass_psa_black_m_dummy"/>
+				<value_node value="wpn_fps_ass_psa_black_bo_dummy"/>
+				<value_node value="wpn_fps_ass_psa_black_ch_dummy"/>
+				
 				<value_node value="wpn_fps_ass_psa_black_ba_std"/>
 				<value_node value="wpn_fps_ass_psa_black_lr_std"/>
 				<value_node value="wpn_fps_ass_psa_black_tr_std"/>

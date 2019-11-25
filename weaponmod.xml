@@ -2,7 +2,11 @@
 
 	<!-- DUMMY -->
 	
-	<WeaponMod id="wpn_fps_ass_psa_black_m_dummy"  	based_on="wpn_fps_m4_uupg_m_std_vanilla"		type="dummy_mag"		unit="units/mods/weapons/wpn_fps_ass_psa_black_shared_pts/wpn_fps_ass_psa_black_m_dummy"    texture_bundle_folder="mods" drop="false" is_a_unlockable="false" a_obj="a_m_dummy"/>
+	<WeaponMod id="wpn_fps_ass_psa_black_m_dummy"  	based_on="wpn_fps_m4_uupg_m_std_vanilla"		type="dummy_mag"		unit="units/mods/weapons/wpn_fps_ass_psa_black_shared_pts/wpn_fps_ass_psa_black_m_dummy"	texture_bundle_folder="mods" drop="false" is_a_unlockable="false" a_obj="a_m_dummy"/>
+	
+	<WeaponMod id="wpn_fps_ass_psa_black_bo_dummy"  based_on="wpn_fps_amcar_bolt_standard"			type="dummy_bolt"		unit="units/mods/weapons/wpn_fps_ass_psa_black_shared_pts/wpn_fps_ass_psa_black_bo_dummy"	texture_bundle_folder="mods" drop="false" is_a_unlockable="false" a_obj="a_bo_dummy"/>
+	
+	<WeaponMod id="wpn_fps_ass_psa_black_ch_dummy"  based_on="wpn_fps_m4_uupg_draghandle"			type="dummy_charge"		unit="units/mods/weapons/wpn_fps_ass_psa_black_shared_pts/wpn_fps_ass_psa_black_ch_dummy"	texture_bundle_folder="mods" drop="false" is_a_unlockable="false" a_obj="a_ch_dummy"/>
 	
 	<!-- AR-15 -->
 	
@@ -42,6 +46,8 @@
 	
 	<!-- MAGAZINES -->
 	
-	<WeaponMod id="wpn_fps_ass_psa_black_m_alum_30"	based_on="wpn_fps_snp_tti_m_standard"			type="magazine"			unit="units/mods/weapons/wpn_fps_ass_psa_black_mag_pts/wpn_fps_ass_psa_black_m_alum_30"		texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	<WeaponMod id="wpn_fps_ass_psa_black_m_alum_30"	based_on="wpn_fps_snp_tti_m_standard"			type="magazine"			unit="units/mods/weapons/wpn_fps_ass_psa_black_mag_pts/wpn_fps_ass_psa_black_m_alum_30"		texture_bundle_folder="mods" drop="false" is_a_unlockable="false">
+		<bullet_objects amount="0" prefix="g_bullet_" />
+	</WeaponMod>
 	
 </table>
