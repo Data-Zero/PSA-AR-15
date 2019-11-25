@@ -26,7 +26,7 @@ if ( self.psa_black ) then
 	self:SetupAttachmentPoint("psa_black", {
 		name = "a_bolt", 
         base_a_obj = "a_bolt", 
-        position = Vector3( -0.65, -0.25, -0.15 ),
+        position = Vector3( -0.7, -0.25, -0.15 ),
         rotation = Rotation( 0, 0, 0 ) 
 	})
 	
