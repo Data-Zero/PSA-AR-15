@@ -1,11 +1,34 @@
 {
 
-	"menu_l_global_value_psa_black" : "This is a custom weapon!",
+	"menu_l_global_value_psa_black"	: "This is a PSA weapon!",
 	
-	"bm_w_psa_black" : "PSA AR-15",
+	"bm_w_psa_black"	: "PSA AR-15",
 	
-	"bm_wp_wpn_fps_ass_psa_black_lr_blank" : "Blank Receiver",
+	"bm_menu_receiver_lower"		: "Lower Receiver",
+	"bm_menu_receiver_lower_plural"	: "Lower Receivers",
+	"bm_menu_receiver_upper"		: "Upper Receiver",
+	"bm_menu_receiver_upper_plural"	: "Upper Receivers",
+	"bm_menu_dust_cover"        	: "Dust Cover",
+	"bm_menu_dust_cover_plural"    	: "Dust Covers",
+	"bm_menu_trigger"        		: "Trigger",
+	"bm_menu_trigger_plural"    	: "Triggers",
+	"bm_menu_gas_block"        		: "Gas Block",
+	"bm_menu_gas_block_plural"    	: "Gas Blocks",
+	"bm_menu_handguard"        		: "Handguard",
+	"bm_menu_handguard_plural"    	: "Handguards",
+	"bm_menu_delta_ring"        	: "Delta Ring",
+	"bm_menu_delta_ring_plural"    	: "Delta Rings",
+	"bm_menu_buffer_tube"        	: "Buffer Tube",
+	"bm_menu_buffer_tube_plural"	: "Buffer Tubes",
+	"bm_menu_charge_handle"			: "Charging Handle",
+	"bm_menu_charge_handle_plural"	: "Chargine Handles",
+	"bm_menu_iron_rear"				: "Rear Iron Sight",
+	"bm_menu_iron_rear_plural"		: "Rear Iron Sights",
+	"bm_menu_iron_front"			: "Front Iron Sight",
+	"bm_menu_iron_front_plural"		: "Front Iron Sights",
 	
-	"bm_wp_end" : "End"
+	"bm_wp_wpn_fps_ass_psa_black_lr_blank"	: "Blank Receiver",
+	
+	"bm_wp_end"	: "End"
 	
 }
