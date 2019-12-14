@@ -12,18 +12,18 @@
 	
 	<!-- AR-15 PARTS -->
 	
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_psa_black_handguard_pts/handguard_m4a1"/>
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_psa_black_handguard_pts/handguard_ris"/>
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_psa_black_barrel_pts/barrel_colt"/>
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_psa_black_receiver_pts/receiver_lower_black"/>
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_psa_black_receiver_pts/receiver_upper_colt"/>
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_psa_black_stock_pts/stock_m4a1"/>
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_psa_black_grip_pts/grip_a2"/>
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_psa_black_barrel_pts/gas_block_colt"/>
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_psa_black_muzzle_pts/flash_colt"/>
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_psa_black_receiver_pts/bolt_colt"/>
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_psa_black_receiver_pts/charge_colt"/>
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_psa_black_stock_pts/buffer_tube_colt"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_psa_black_handguard_pts/handguard_m4a1"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_psa_black_handguard_pts/handguard_ris"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_psa_black_barrel_pts/barrel_colt"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_psa_black_receiver_pts/receiver_lower_black"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_psa_black_receiver_pts/receiver_upper_colt"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_psa_black_stock_pts/stock_m4a1"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_psa_black_grip_pts/grip_a2"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_psa_black_barrel_pts/gas_block_colt"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_psa_black_muzzle_pts/flash_colt"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_psa_black_receiver_pts/bolt_colt"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_psa_black_receiver_pts/charge_colt"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_psa_black_stock_pts/buffer_tube_colt"/>
 	
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_psa_black_barrel_pts/wpn_fps_ass_psa_black_ba_std"/>
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_psa_black_handguard_pts/wpn_fps_ass_psa_black_hg_m4a1"/>
@@ -43,13 +43,13 @@
 	
 	<!-- MBUS PARTS -->
 	
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_psa_black_shared_pts/sight_mbus"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_psa_black_shared_pts/sight_mbus"/>
 	
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_psa_black_shared_pts/wpn_fps_ass_psa_black_ro_mbus"/>
 	
 	<!-- MAG PARTS -->
 	
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_psa_black_mag_pts/mag_alum_30"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_psa_black_mag_pts/mag_alum_30"/>
 	
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_psa_black_mag_pts/wpn_fps_ass_psa_black_m_alum_30"/>
 
